@@ -32,3 +32,4 @@ Tue Mar 24 10:58:15 EDT 2026: docs: add link to college website
 Tue Mar 24 10:58:15 EDT 2026: style: adjust container max-width
 Tue Mar 24 10:58:15 EDT 2026: feat: add site-map.xml placeholder
 Tue Mar 24 10:58:15 EDT 2026: docs: update project roadmap
+Tue Mar 24 10:58:15 EDT 2026: style: refine button color palette
