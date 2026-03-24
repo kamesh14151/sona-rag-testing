@@ -24,3 +24,4 @@ Tue Mar 24 10:58:14 EDT 2026: style: refine background color for better contrast
 Tue Mar 24 10:58:14 EDT 2026: feat: add twitter card meta tags
 Tue Mar 24 10:58:14 EDT 2026: docs: add FAQ section to README
 Tue Mar 24 10:58:14 EDT 2026: style: improve heading font weights
+Tue Mar 24 10:58:14 EDT 2026: feat: add robots.txt file
