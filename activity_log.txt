@@ -12,3 +12,4 @@ Tue Mar 24 10:58:14 EDT 2026: style: add subtle box-shadow to container
 Tue Mar 24 10:58:14 EDT 2026: feat: add language attribute to html tag
 Tue Mar 24 10:58:14 EDT 2026: docs: list project dependencies
 Tue Mar 24 10:58:14 EDT 2026: style: improve footer text alignment
+Tue Mar 24 10:58:14 EDT 2026: feat: add canonical link tag
