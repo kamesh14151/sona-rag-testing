@@ -1,0 +1,88 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sona AI Chatbot</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: linear-gradient(135deg, #0f172a, #1e293b);
+      color: white;
+    }.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 3rem;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 1.2rem;
+  color: #cbd5f5;
+  max-width: 600px;
+}
+
+.btn {
+  margin-top: 20px;
+  padding: 12px 24px;
+  background: #3b82f6;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.btn:hover {
+  background: #2563eb;
+}
+
+.chatbot-container {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 350px;
+  height: 500px;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+}
+
+iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+  </style>
+</head>
+<body>  <div class="container">
+    <h1>🎓 Sona AI Chatbot</h1>
+    <p>
+      Ask anything about your college — courses, fees, events, placements.
+      Our AI chatbot is here to help you instantly.
+    </p>
+    <button class="btn" onclick="scrollToChat()">Chat Now</button>
+  </div>  <div class="chatbot-container" id="chat">
+    <iframe
+      data-sona-chatbot="true"
+      data-sona-mode="compact"
+      src="https://your-vercel-app.vercel.app/chatbot"
+      title="College AI Chatbot"
+      loading="lazy">
+    </iframe>
+  </div>  <script src="https://your-vercel-app.vercel.app/chatbot-embed.js" defer></script>  <script>
+    function scrollToChat() {
+      document.getElementById('chat').scrollIntoView({ behavior: 'smooth' });
+    }
+  </script></body>
+</html>
