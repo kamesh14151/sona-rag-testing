@@ -44,3 +44,4 @@ Tue Mar 24 11:03:46 EDT 2026: feat: add custom error pages
 Tue Mar 24 11:03:46 EDT 2026: docs: explain embedding generation
 Tue Mar 24 11:03:46 EDT 2026: style: add dark mode support
 Tue Mar 24 11:03:46 EDT 2026: feat: add contact form placeholder
+Tue Mar 24 11:03:46 EDT 2026: docs: update contributor list
