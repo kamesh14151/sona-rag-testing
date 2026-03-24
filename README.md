@@ -29,3 +29,4 @@ The architecture of Sona RAG involves:
  - docs: update maintainer contact info
  - docs: explain vector database integration
  - docs: add FAQ section to README
+ - docs: describe document ingestion pipeline
