@@ -22,3 +22,4 @@ The architecture of Sona RAG involves:
 4. **Agent Integration**: A fallback mechanism to route queries to live human agents.
  - docs: add contribution guidelines
  - docs: clarify RAG retrieval process
+ - docs: update license year

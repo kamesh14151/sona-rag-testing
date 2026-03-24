@@ -4,3 +4,4 @@ Tue Mar 24 10:58:14 EDT 2026: feat: add meta description for SEO
 Tue Mar 24 10:58:14 EDT 2026: docs: clarify RAG retrieval process
 Tue Mar 24 10:58:14 EDT 2026: style: add font-family fallback
 Tue Mar 24 10:58:14 EDT 2026: feat: add aria-label to chatbot iframe
+Tue Mar 24 10:58:14 EDT 2026: docs: update license year
