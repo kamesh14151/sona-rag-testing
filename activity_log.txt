@@ -70,3 +70,4 @@ Tue Mar 24 11:03:46 EDT 2026: style: add gradient backgrounds
 Tue Mar 24 11:03:46 EDT 2026: feat: add cookie consent banner
 Tue Mar 24 11:03:46 EDT 2026: docs: add link to API documentation
 Tue Mar 24 11:03:46 EDT 2026: style: improve accessibility of buttons
+Tue Mar 24 11:03:46 EDT 2026: feat: add site-wide search bar
