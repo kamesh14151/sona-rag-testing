@@ -46,3 +46,4 @@ The architecture of Sona RAG involves:
  - docs: describe evaluation metrics used
  - docs: add link to API documentation
  - docs: update deployment instructions
+ - docs: add security policy
