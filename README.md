@@ -40,3 +40,4 @@ The architecture of Sona RAG involves:
  - docs: describe query expansion techniques
  - docs: add glossary of terms
  - docs: explain reranking process
+ - docs: update project versioning
