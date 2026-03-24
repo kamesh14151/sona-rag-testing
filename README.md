@@ -47,3 +47,4 @@ The architecture of Sona RAG involves:
  - docs: add link to API documentation
  - docs: update deployment instructions
  - docs: add security policy
+ - docs: final documentation audit
