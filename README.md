@@ -27,3 +27,4 @@ The architecture of Sona RAG involves:
  - docs: list project dependencies
  - docs: add troubleshooting section
  - docs: update maintainer contact info
+ - docs: explain vector database integration
