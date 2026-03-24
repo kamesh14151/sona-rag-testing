@@ -21,3 +21,4 @@ The architecture of Sona RAG involves:
 3. **Generation Module**: An LLM (Large Language Model) that synthesizes answers using retrieved context.
 4. **Agent Integration**: A fallback mechanism to route queries to live human agents.
  - docs: add contribution guidelines
+ - docs: clarify RAG retrieval process
