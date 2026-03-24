@@ -7,3 +7,4 @@ Tue Mar 24 10:58:14 EDT 2026: feat: add aria-label to chatbot iframe
 Tue Mar 24 10:58:14 EDT 2026: docs: update license year
 Tue Mar 24 10:58:14 EDT 2026: style: add responsive padding for mobile
 Tue Mar 24 10:58:14 EDT 2026: feat: add favicon placeholder link
+Tue Mar 24 10:58:14 EDT 2026: docs: explain human-in-the-loop mechanism
