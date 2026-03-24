@@ -34,3 +34,4 @@ The architecture of Sona RAG involves:
  - docs: update project roadmap
  - docs: add credits section
  - docs: final README polish
+ - docs: add section on data privacy
