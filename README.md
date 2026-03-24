@@ -32,3 +32,4 @@ The architecture of Sona RAG involves:
  - docs: describe document ingestion pipeline
  - docs: add link to college website
  - docs: update project roadmap
+ - docs: add credits section
