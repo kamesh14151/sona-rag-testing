@@ -58,3 +58,4 @@ Tue Mar 24 11:03:46 EDT 2026: style: refine typography scale
 Tue Mar 24 11:03:46 EDT 2026: feat: add newsletter signup section
 Tue Mar 24 11:03:46 EDT 2026: docs: update project versioning
 Tue Mar 24 11:03:46 EDT 2026: style: add skeleton loaders
+Tue Mar 24 11:03:46 EDT 2026: feat: add multi-language support
