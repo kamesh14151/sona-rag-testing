@@ -73,3 +73,4 @@ Tue Mar 24 11:03:46 EDT 2026: style: improve accessibility of buttons
 Tue Mar 24 11:03:46 EDT 2026: feat: add site-wide search bar
 Tue Mar 24 11:03:46 EDT 2026: docs: update deployment instructions
 Tue Mar 24 11:03:46 EDT 2026: style: refine icon sizing
+Tue Mar 24 11:03:46 EDT 2026: feat: add user profile section
