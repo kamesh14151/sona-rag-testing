@@ -66,3 +66,4 @@ Tue Mar 24 11:03:46 EDT 2026: docs: add development environment setup
 Tue Mar 24 11:03:46 EDT 2026: style: refine spacing between sections
 Tue Mar 24 11:03:46 EDT 2026: feat: add dynamic copyright year script
 Tue Mar 24 11:03:46 EDT 2026: docs: describe evaluation metrics used
+Tue Mar 24 11:03:46 EDT 2026: style: add gradient backgrounds
