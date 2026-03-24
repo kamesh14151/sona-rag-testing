@@ -33,3 +33,4 @@ The architecture of Sona RAG involves:
  - docs: add link to college website
  - docs: update project roadmap
  - docs: add credits section
+ - docs: final README polish
