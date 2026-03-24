@@ -38,3 +38,4 @@ The architecture of Sona RAG involves:
  - docs: explain embedding generation
  - docs: update contributor list
  - docs: describe query expansion techniques
+ - docs: add glossary of terms

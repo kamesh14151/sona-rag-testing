@@ -50,3 +50,4 @@ Tue Mar 24 11:03:46 EDT 2026: feat: add search functionality placeholder
 Tue Mar 24 11:03:46 EDT 2026: docs: describe query expansion techniques
 Tue Mar 24 11:03:46 EDT 2026: style: add hover effects for cards
 Tue Mar 24 11:03:46 EDT 2026: feat: add analytics tracking script
+Tue Mar 24 11:03:46 EDT 2026: docs: add glossary of terms
