@@ -18,3 +18,4 @@ Tue Mar 24 10:58:14 EDT 2026: style: increase line-height for readability
 Tue Mar 24 10:58:14 EDT 2026: feat: add loading state placeholder for iframe
 Tue Mar 24 10:58:14 EDT 2026: docs: update maintainer contact info
 Tue Mar 24 10:58:14 EDT 2026: style: add transition effect to buttons
+Tue Mar 24 10:58:14 EDT 2026: feat: add open graph meta tags
