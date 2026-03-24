@@ -16,3 +16,4 @@ Tue Mar 24 10:58:14 EDT 2026: feat: add canonical link tag
 Tue Mar 24 10:58:14 EDT 2026: docs: add troubleshooting section
 Tue Mar 24 10:58:14 EDT 2026: style: increase line-height for readability
 Tue Mar 24 10:58:14 EDT 2026: feat: add loading state placeholder for iframe
+Tue Mar 24 10:58:14 EDT 2026: docs: update maintainer contact info
