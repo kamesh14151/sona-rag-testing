@@ -44,3 +44,4 @@ The architecture of Sona RAG involves:
  - docs: explain document chunking strategy
  - docs: add development environment setup
  - docs: describe evaluation metrics used
+ - docs: add link to API documentation
