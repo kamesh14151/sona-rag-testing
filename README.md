@@ -42,3 +42,4 @@ The architecture of Sona RAG involves:
  - docs: explain reranking process
  - docs: update project versioning
  - docs: explain document chunking strategy
+ - docs: add development environment setup
