@@ -11,3 +11,12 @@ The Sona RAG system is designed to provide college assistance by leveraging a co
 - **Retrieval-Augmented Generation**: Uses a knowledge base to provide contextually relevant answers.
 - **Human-in-the-loop**: Integrates with live agents for complex queries.
 - **Easy Integration**: Can be embedded into any website using a simple iframe.
+
+## Architecture
+
+The architecture of Sona RAG involves:
+
+1. **Document Storage**: A vector database for storing college-related documents.
+2. **Retrieval Module**: A search engine to find the most relevant documents based on user queries.
+3. **Generation Module**: An LLM (Large Language Model) that synthesizes answers using retrieved context.
+4. **Agent Integration**: A fallback mechanism to route queries to live human agents.
