@@ -24,3 +24,4 @@ The architecture of Sona RAG involves:
  - docs: clarify RAG retrieval process
  - docs: update license year
  - docs: explain human-in-the-loop mechanism
+ - docs: list project dependencies
