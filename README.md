@@ -35,3 +35,4 @@ The architecture of Sona RAG involves:
  - docs: add credits section
  - docs: final README polish
  - docs: add section on data privacy
+ - docs: explain embedding generation

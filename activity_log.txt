@@ -41,3 +41,4 @@ Tue Mar 24 10:58:15 EDT 2026: docs: final README polish
 Tue Mar 24 11:03:46 EDT 2026: docs: add section on data privacy
 Tue Mar 24 11:03:46 EDT 2026: style: improve mobile navigation menu
 Tue Mar 24 11:03:46 EDT 2026: feat: add custom error pages
+Tue Mar 24 11:03:46 EDT 2026: docs: explain embedding generation
