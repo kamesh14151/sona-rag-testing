@@ -52,3 +52,4 @@ Tue Mar 24 11:03:46 EDT 2026: style: add hover effects for cards
 Tue Mar 24 11:03:46 EDT 2026: feat: add analytics tracking script
 Tue Mar 24 11:03:46 EDT 2026: docs: add glossary of terms
 Tue Mar 24 11:03:46 EDT 2026: style: improve button focus states
+Tue Mar 24 11:03:46 EDT 2026: feat: add social media sharing buttons
